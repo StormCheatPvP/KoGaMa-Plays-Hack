@@ -5,6 +5,6 @@
 // @match                https://www.kogama.com/*
 // @match                https://kogama.com.br/*
 // @match                https://friends.kogama.com/*
-// @requiere             https://raw.githubusercontent.com/StormCheatPvP/KoGaMa-Plays-Hack/main/CodeHack.js
+// @require             https://raw.githubusercontent.com/StormCheatPvP/KoGaMa-Plays-Hack/main/CodeHack.js
 // @grant                none
 // ==/UserScript==
